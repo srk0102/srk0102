@@ -5,4 +5,7 @@
 
 **About Me**
 
-Experienced IT professional adept in delivering results and driving innovation in the field. Specializing in full-stack development with a focus on backend solutions, I possess a strong passion for deep learning technologies. My expertise lies in developing cutting-edge insurance plan modules, seamless API integration, and robust data security implementations.
+I'm an IT pro who gets things done, is great at time management, and can
+handle pressure like a champ. Looking for a cool gig at a top-notch company
+where I can put my tech, database, and management skills to work and keep
+riding the wave of IT trends.
